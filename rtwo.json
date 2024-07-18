@@ -6,16 +6,16 @@
             "device": "Motorola Moto EDGE 40 pro (rtwo)",
             "filename": "EvolutionX-14.0-20240718-rtwo-v9.2-Unofficial.zip",
             "download": "https://rom.luuxis.fr/Evolution-XYZ/rtwo/EvolutionX-14.0-20240718-rtwo-v9.2-Unofficial.zip",
-            "timestamp": 1721289052,
-            "md5": "fe1275d9229b3de3e16120a44878b7bd",
-            "sha256": "5ed53df1b7ebd63f94062cf954ff50a3545b26b82d4cc29ad623bc366ada21af",
-            "size": 2532722030,
+            "timestamp": 1721294240,
+            "md5": "0d6f5afc05ba4df637920ccbbb2cc251",
+            "sha256": "9903ffcacd855f7280764a1cbdfc0726d60c995b33680bc39c199480a0ef6ed5",
+            "size": 3010196897,
             "version": "9.2",
             "buildtype": "Unofficial",
-            "forum": "",
+            "forum": "https://xdaforums.com/t/rom-unofficial-evolution-x-9-2-android-14.4682047/",
             "firmware": "",
             "paypal": "https://www.paypal.me/luuxis82",
-            "telegram": ""
+            "telegram": "https://discord.gg/cNUU6yaJHw"
         }
     ]
 }
