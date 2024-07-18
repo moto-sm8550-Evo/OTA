@@ -1,0 +1,21 @@
+{
+    "response": [
+        {
+            "maintainer": "Luuxis",
+            "oem": "",
+            "device": "Motorola Moto EDGE 40 pro (rtwo)",
+            "filename": "EvolutionX-14.0-20240718-rtwo-v9.2-Unofficial.zip",
+            "download": "https://rom.luuxis.fr/Evolution-XYZ/rtwo/20240718/EvolutionX-14.0-20240718-rtwo-v9.2-Unofficial.zip",
+            "timestamp": 1721281454,
+            "md5": "08766665080d11942540bb71204677d4",
+            "sha256": "e14032cb130ccee7bc95054376b8fc1f4187e992b40108de3bf553a34f0c356d",
+            "size": 2532729338,
+            "version": "9.2",
+            "buildtype": "Unofficial",
+            "forum": "",
+            "firmware": "",
+            "paypal": "https://www.paypal.me/luuxis82",
+            "telegram": ""
+        }
+    ]
+}
